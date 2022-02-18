@@ -13,9 +13,9 @@
     "title": "<font size='+1'>ConnectRN vs. Competitors</font><br><i>Measure of Online Presence"
   },
   "legend": {
-    "edgeLabel": "Edge description",
+    "edgeLabel": "Network Connection",
     "colorLabel": "Node Type",
-    "nodeLabel": "Node description"
+    "nodeLabel": "Network Node"
   },
   "features": {
     "search": true,
